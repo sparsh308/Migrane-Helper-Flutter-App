@@ -16,20 +16,29 @@ Are migraines taking over your day? Migraine Helper is here to bring you relief 
 ✔️ Offline Support – Get help anytime, anywhere.
 ✔️ Completely Free & No Ads! 🚀
 
-📸 Screenshots
 ## 📸 Screenshots  
 
-### 🏠 Home Screen  
-![Home Screen](screenshots/4.png)  
+<table>
+  <tr>
+    <td><img src="screenshots/4.png" alt="Home Screen" width="300"/></td>
+    <td><img src="screenshots/1.png" alt="Breathing Exercise" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏠 Home Screen</b></td>
+    <td align="center"><b>🌬️ Breathing Exercise</b></td>
+  </tr>
+</table>
 
-### 🌬️ Breathing Exercise  
-![Breathing Exercise](screenshots/1.png)  
-
-### 🎵 Sleep Sounds  
-![Sleep Sounds](screenshots/2.png)  
-
-## Sleep Tracker
-![Sleep tracker](screenshots/3.png)  
+<table>
+  <tr>
+    <td><img src="screenshots/2.png" alt="Sleep Sounds" width="300"/></td>
+    <td><img src="screenshots/3.png" alt="Sleep Tracker" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎵 Sleep Sounds</b></td>
+    <td align="center"><b>📊 Sleep Tracker</b></td>
+  </tr>
+</table>
 
 
 
