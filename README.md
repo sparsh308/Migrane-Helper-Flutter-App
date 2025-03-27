@@ -17,7 +17,20 @@ Are migraines taking over your day? Migraine Helper is here to bring you relief 
 ✔️ Completely Free & No Ads! 🚀
 
 📸 Screenshots
-(Add some cool screenshots of your app here!)
+## 📸 Screenshots  
+
+### 🏠 Home Screen  
+![Home Screen](screenshots/4.png)  
+
+### 🌬️ Breathing Exercise  
+![Breathing Exercise](screenshots/1.png)  
+
+### 🎵 Sleep Sounds  
+![Sleep Sounds](screenshots/2.png)  
+
+## Sleep Tracker
+![Sleep tracker](screenshots/3.png)  
+
 
 
 📦 Dependencies
